@@ -55,7 +55,7 @@
         "express-mysql-session": "^2.1.7",
         "express-session": "^1.17.2",
         "moment-timezone": "^0.5.33",
-        "mongoose": "^6.0.12",
+        "mongoose": "^6.4.6",
         "morgan": "^1.10.0",
         "mysql": "^2.18.1",
         "node-fetch": "^2.6.6",
